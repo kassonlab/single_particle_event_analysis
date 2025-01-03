@@ -1,0 +1,1 @@
+An image stack containing fluorescently labelled particles over time after fusion trigger must first be analysed in Fiji, using the Spot Intensity Analysis plugin (https://imagej.net/plugins/spot-intensity-analysis). The output file containing the individual particle intensities over time  should be saved and then loaded into the "1 - particle intensity analysis.ipynb" script.
